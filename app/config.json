@@ -1,0 +1,12 @@
+{
+  "local": {
+    "apiConfig": {
+      "apiHost": "http://localhost:3000/api"
+    }
+  },
+  "production": {
+    "apiConfig": {
+      "apiHost": "https://afternoon-gorge-60512.herokuapp.com/api"
+    }
+  }
+}
